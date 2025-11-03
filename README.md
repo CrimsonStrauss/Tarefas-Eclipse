@@ -10,7 +10,7 @@
 
 ## 🚀 O que é o Tarefas Eclipse?
 
-**Tarefas Eclipse** é um sistema de automação desenvolvido pela **Eclipse Lunar** que processa e completa tarefas do CMSP de forma inteligente e eficiente. Projetado para estudantes que buscam otimizar seu tempo.
+**Tarefas Eclipse** é um sistema de automação desenvolvido pela **Eclipse Lunar** que processa e completa tarefas da Sala do Futuro de forma inteligente e eficiente. Projetado para estudantes que buscam otimizar seu tempo.
 
 ## 🌐 Como Usar
 
