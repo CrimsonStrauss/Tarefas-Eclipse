@@ -1,6 +1,6 @@
 # 🌙 Tarefas Eclipse
 
-> **Automatização inteligente para tarefas da Sala do FuturoP**
+> **Automatização inteligente para tarefas da Sala do Futuro**
 
 [![Discord](https://img.shields.io/badge/Discord-Comunidade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/hdY6SDUe8J)
 [![Website](https://img.shields.io/badge/Site_Oficial-crimsonzerohub.xyz-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://crimsonzerohub.xyz/)
