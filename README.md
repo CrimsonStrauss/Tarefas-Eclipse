@@ -15,7 +15,7 @@
 ## 🌐 Como Usar
 
 ### Acesso via Site 
-Acesse [crimsonzerohub.xyz](https://crimsonzerohub.xyz/tarefas) e use a interface web completa.
+Acesse [crimsonzerohub.xyz/tarefas](https://crimsonzerohub.xyz/tarefas) e use a interface web completa.
 
 
 ### ⚙️ Opções Avançadas
