@@ -1,4 +1,4 @@
-# 🌙 Tarefas Eclipse
+# [🌙](https://cdn.discordapp.com/emojis/1409086923917623357.png?size=48&quality=lossless&1) Tarefas Eclipse
 
 > **Automatização inteligente para tarefas e provas do CMSP**
 
@@ -105,17 +105,6 @@ Se alguém **fora do Discord oficial** tentou vender acesso ao **Tarefas Eclipse
 **Acesso gratuito:**
 - ✅ [Discord Oficial](https://discord.com/invite/hdY6SDUe8J)
 - ✅ [Site Oficial](https://crimsonzerohub.xyz/)
-
----
-
-## 📊 Status do Projeto
-
-🟢 **Ativo e em desenvolvimento**
-
-- Última atualização: Novembro 2024
-- Versão atual: Stable Release
-- Uptime médio: 99.5%
-- Tarefas processadas: +10.000
 
 ---
 
