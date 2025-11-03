@@ -1,4 +1,4 @@
-# [🌙](https://cdn.discordapp.com/emojis/1409086923917623357.png?size=48&quality=lossless&1) Tarefas Eclipse
+# 🌙 Tarefas Eclipse
 
 > **Automatização inteligente para tarefas e provas do CMSP**
 
@@ -110,7 +110,7 @@ Se alguém **fora do Discord oficial** tentou vender acesso ao **Tarefas Eclipse
 
 ## 🙏 Créditos
 
-Desenvolvido com ❤️ pela equipe **Eclipse Lunar**
+Desenvolvido por **Eclipse Lunar**
 
 **Fundador:** CrimsonStrauss  
 **Servidor:** Eclipse Lunar  
